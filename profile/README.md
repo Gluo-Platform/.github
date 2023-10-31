@@ -1,6 +1,4 @@
-<p align="center" >
-<strong>The most privacy friendly social media platform!</strong>
-</p>
+<h2 align="center">The most privacy friendly social media platform!</h2>
 
 
 ![Frame 3-3](https://github.com/Gluo-Platform/.github/assets/73933669/ae793792-a355-47d7-a967-4f438153f157)
