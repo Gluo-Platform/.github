@@ -1,6 +1,4 @@
-## Gluo
-
-![Frame 1-7](https://github.com/Gluo-Platform/.github/assets/73933669/d75a57ac-c006-4a28-b881-4ca2fc97da6d)
+![Frame 3-3](https://github.com/Gluo-Platform/.github/assets/73933669/ae793792-a355-47d7-a967-4f438153f157)
 
 
 
